@@ -2,9 +2,7 @@
 
 🌐 Live Demo
 
-Check it out here: https://anush-rao-portfolio.vercel.app/
-
-(Replace with your own deployment URL)
+Check it out here: https://meenakshi-cherukuri.vercel.app/
 
 ✨ Project Overview
 
